@@ -4,5 +4,5 @@ class Dog
   end
   def name 
     doggo_name
-
+  end
 end
